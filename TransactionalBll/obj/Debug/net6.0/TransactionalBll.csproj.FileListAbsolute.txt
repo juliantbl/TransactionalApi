@@ -1,0 +1,17 @@
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\bin\Debug\net6.0\TransactionalBll.deps.json
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\bin\Debug\net6.0\TransactionalBll.dll
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\bin\Debug\net6.0\TransactionalBll.pdb
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\bin\Debug\net6.0\TransactionalDomain.dll
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\bin\Debug\net6.0\TransactionalDomain.pdb
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\obj\Debug\net6.0\TransactionalBll.csproj.AssemblyReference.cache
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\obj\Debug\net6.0\TransactionalBll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\obj\Debug\net6.0\TransactionalBll.AssemblyInfoInputs.cache
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\obj\Debug\net6.0\TransactionalBll.AssemblyInfo.cs
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\obj\Debug\net6.0\TransactionalBll.csproj.CoreCompileInputs.cache
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\obj\Debug\net6.0\TransactionalBll.csproj.CopyComplete
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\obj\Debug\net6.0\TransactionalBll.dll
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\obj\Debug\net6.0\refint\TransactionalBll.dll
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\obj\Debug\net6.0\TransactionalBll.pdb
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\obj\Debug\net6.0\ref\TransactionalBll.dll
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\bin\Debug\net6.0\TransactionalDal.dll
+C:\Users\57318\source\repos\TransactionalApi\TransactionalBll\bin\Debug\net6.0\TransactionalDal.pdb

@@ -1,0 +1,12 @@
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\bin\Debug\net6.0\TransactionalDomain.deps.json
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\bin\Debug\net6.0\TransactionalDomain.dll
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\bin\Debug\net6.0\TransactionalDomain.pdb
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\obj\Debug\net6.0\TransactionalDomain.csproj.AssemblyReference.cache
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\obj\Debug\net6.0\TransactionalDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\obj\Debug\net6.0\TransactionalDomain.AssemblyInfoInputs.cache
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\obj\Debug\net6.0\TransactionalDomain.AssemblyInfo.cs
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\obj\Debug\net6.0\TransactionalDomain.csproj.CoreCompileInputs.cache
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\obj\Debug\net6.0\TransactionalDomain.dll
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\obj\Debug\net6.0\refint\TransactionalDomain.dll
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\obj\Debug\net6.0\TransactionalDomain.pdb
+C:\Users\57318\source\repos\TransactionalApi\TransactionalDomain\obj\Debug\net6.0\ref\TransactionalDomain.dll

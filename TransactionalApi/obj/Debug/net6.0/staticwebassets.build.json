@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "49LlgJRqV46xUoUnIsrcSi/n6lHCYIcgrbJXjajrIgw=",
+  "Source": "TransactionalApi",
+  "BasePath": "_content/TransactionalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
